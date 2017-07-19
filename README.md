@@ -6,5 +6,5 @@ On January 25, Saint Dwynwen's Day (Welsh patron saint of lovers) is celebrated 
 
 Procedure:
 * Connect to Twitter API, using the maximum API search calls on two lists of keywords
-** santes dwynwen, dwynwen, saint dwynwen etc.
-** rabbie burns, burns night, robert burns etc.
+- santes dwynwen, dwynwen, saint dwynwen etc.
+- rabbie burns, burns night, robert burns etc.
