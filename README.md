@@ -5,6 +5,4 @@ iPython Notebook using the Twitter API library for pulling tweets that contain k
 On January 25, Saint Dwynwen's Day (Welsh patron saint of lovers) is celebrated in Wales, whereas Burns Night is celebrated in Scotland.
 
 Procedure:
-* Connect to Twitter API, using the maximum API search calls on two lists of keywords
-- santes dwynwen, dwynwen, saint dwynwen etc.
-- rabbie burns, burns night, robert burns etc.
+* Connect to Twitter API, using the maximum API search calls on two lists of keywords. [santes dwynwen, dwynwen, saint dwynwen etc.] and [rabbie burns, burns night, robert burns etc.]
