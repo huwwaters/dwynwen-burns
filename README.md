@@ -9,3 +9,5 @@ Procedure:
 * Get the geolocation (longitude, latitude, or placename) of the tweet mentioning the above keywords. If failing this, get a location specified from the biography.
 * Resolve any placename to longitude, latitude, and group occurance of tweets mentioning keywords to a location.
 * Generate a heatmap using the data.
+
+Libraries used: Twitter API, Pandas, GeoPy, Folium
