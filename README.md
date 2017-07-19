@@ -6,4 +6,6 @@ On January 25, Saint Dwynwen's Day (Welsh patron saint of lovers) is celebrated 
 
 Procedure:
 * Connect to Twitter API, using the maximum API search calls on two lists of keywords. [santes dwynwen, dwynwen, saint dwynwen etc.] and [rabbie burns, burns night, robert burns etc.]
-* Get the geocode (latitude, longitude, or placename) of the tweet mentioning the above keywords. If failing this, get a location specified from the biography.
+* Get the geolocation (longitude, latitude, or placename) of the tweet mentioning the above keywords. If failing this, get a location specified from the biography.
+* Resolve any placename to longitude, latitude, and group occurance of tweets mentioning keywords to a location.
+* Generate a heatmap using the data.
